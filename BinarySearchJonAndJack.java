@@ -61,6 +61,8 @@ class DatabaseJonAndJack {
                 // Else the element can only be present
                 // in right subarray
                 return binarySearch(arr, mid + 1, r, x);
+                
+                hyjuhki
             }
 
             // We reach here when element is not present
